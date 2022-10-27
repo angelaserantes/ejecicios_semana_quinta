@@ -6,25 +6,25 @@ public class ejercicio5 {
     public static void main(String[] args) {
         Scanner datos = new Scanner(System.in);
         System.out.println("Introduce un número");
-        int n1 = datos.nextInt();
+        float n1 = datos.nextFloat();
         System.out.println("Introduce otro número");
-        int n2 = datos.nextInt();
+        float n2 = datos.nextFloat();
         System.out.println("Introduce otro número");
-        int n3 = datos.nextInt();
+        float n3 = datos.nextFloat();
         System.out.println("Introduce otro número");
-        int n4 = datos.nextInt();
+        float n4 = datos.nextFloat();
         System.out.println("Introduce otro número");
-        int n5 = datos.nextInt();
+        float n5 = datos.nextFloat();
         System.out.println("Introduce otro número");
-        int n6 = datos.nextInt();
+        float n6 = datos.nextFloat();
         System.out.println("Introduce otro número");
-        int n7 = datos.nextInt();
+        float n7 = datos.nextFloat();
         System.out.println("Introduce otro número");
-        int n8 = datos.nextInt();
+        float n8 = datos.nextFloat();
         System.out.println("Introduce otro número");
-        int n9 = datos.nextInt();
+        float n9 = datos.nextFloat();
         System.out.println("Introduce otro número");
-        int n10 = datos.nextInt();
+        float n10 = datos.nextFloat();
         System.out.println("La media aritmética es " + (n1 + n2 + n3 + n4 + n5 + n6 + n7 + n8 + n9 + n10) /10);
     }
 }
