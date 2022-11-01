@@ -13,3 +13,9 @@
 [ejercicio_5](https://github.com/angelaserantes/ejecicios_semana_quinta/blob/master/src/com/ejercios/ejercicios_semana_quinta/ejercicio5.java)
 
 [ejercicio_6](https://github.com/angelaserantes/ejecicios_semana_quinta/blob/master/src/com/ejercios/ejercicios_semana_quinta/ejercicio6.java)
+
+
+Diagrama calculadora
+
+
+![Diagrama calculadora](./src/img/diagrama.png)
