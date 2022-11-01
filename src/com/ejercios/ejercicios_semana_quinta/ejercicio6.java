@@ -23,17 +23,17 @@ public class ejercicio6 {
             System.out.println("la resta es " + resultado2);
         } else if (operacion.equals("multiplicar")) {
             System.out.println("Introduce un valor");
-            int n4 = datos.nextInt();
-            System.out.println("Introduce otro valor");
-            int n5 = datos.nextInt();
-            int resultado3 = n4 * n5;
-            System.out.println("la multiplicación es " + resultado3);
-        } else if (operacion.equals("dividir")) {
-            System.out.println("Introduce un valor");
             int n5 = datos.nextInt();
             System.out.println("Introduce otro valor");
             int n6 = datos.nextInt();
-            int resultado4 = n5 / n6;
+            int resultado3 = n5 * n6;
+            System.out.println("la multiplicación es " + resultado3);
+        } else if (operacion.equals("dividir")) {
+            System.out.println("Introduce un valor");
+            int n7 = datos.nextInt();
+            System.out.println("Introduce otro valor");
+            int n8 = datos.nextInt();
+            int resultado4 = n7 / n8;
             System.out.println("la división es " + resultado4);
         }else {
             System.out.println("Esta calculadora no puede hacer esta operación");
